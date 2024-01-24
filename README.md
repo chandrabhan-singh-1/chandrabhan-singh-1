@@ -1,7 +1,7 @@
 ![Profile Thumbnail](https://github.com/chandrabhan-singh-1/shared-assets/blob/main/Images/Chandrabhan%20Singh%20Rathore.jpg)
 
 - 👋 Hi, I’m Chandrabhan Singh Rathore & I'm a self-taught programmer. 
-- 🌱 I’m currently learning Fullstack Web Development in MERN & NextJS.
+- 🌱 I do Fullstack Web Development in MERN & NextJS.
 - 👀 You can checkout some of my best projects on this GitHub account.  
 - 📫 Here is my Email: [Email Address](chandrabhansingh813@gmail.com)
   
@@ -9,14 +9,15 @@
 
 # Web Development Projects
 
-## Project 1: Learning Platform/Website
-- Description: This is a FullStack Edtech company's website with Admin panel, where admin can monitor and manage everything on the website.
-- Tech Used: ReactJS, NodeJS, ExpressJS, MongoDB, Cloudinary, Razorpay, MailTrap, ChakraUI & ChartJS etc.
-- [Course Bundler](YOUR_PROJECT_LINK_HERE)
+## Project 1: Live Streaming Platform/Website
+- Description: This is a FullStack Live Streaming Platform "Gamehub" inspired by Twitch website with Admin Dashboard, where streamer can monitor and manage everything.
+- Tech Used: NextJS 14, ClerkAuth, Shadhcn-UI, Tailwind, Prisma, LiveKit, UploadThing, Prisma, Typescript & MySQL etc.
+- [GameHub](https://twitch-clone-gamehub.vercel.app/)
 
-## Project 2: Portfolio Website
-- Description: My personal portfolio website showcasing my work.
-- [Link to Project](YOUR_PROJECT_LINK_HERE)
+## Project 2: Trello Clone-TASKIFY Website
+- Description: This is a Full-Stack Trello Clone Website named "TASKIFY", tried to replicate most of the features of Trello.
+- Tech Used: NextJS 14, ClerkAuth, Shadhcn-UI, Tailwind, Prisma, React-DND, Unsplash-API, Prisma, Typescript & PostgreSQL etc.
+- [TASKIFY](https://nextjs-14-trello-clone.vercel.app/)
 
 ## Project 3: Blogging Platform
 - Description: A blogging platform with user authentication.
