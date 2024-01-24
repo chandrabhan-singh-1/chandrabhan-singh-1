@@ -1,3 +1,5 @@
+![Profile Thumbnail](https://github.com/chandrabhan-singh-1/shared-assets/blob/main/Images/Chandrabhan%20Singh%20Rathore.jpg)
+
 - 👋 Hi, I’m Chandrabhan Singh Rathore & I'm a self-taught programmer. 
 - 🌱 I’m currently learning Fullstack Web Development in MERN & NextJS.
 - 👀 You can checkout some of my best projects on this GitHub account.  
