@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Chandrabhan Singh Rathore & I'm a self-taught programmer. 
 - 🌱 I do Full-Stack Web Development using NextJS & MERN Stack.
 - 👀 You can checkout some of my best projects on this GitHub account.  
-- 📫 Here is my Email: [Email Address](chandrabhansingh813@gmail.com)
+- 📫 Here is my Email: [chandrabhansingh813@gmail.com](chandrabhansingh813@gmail.com)
   
 & Here are some of my projects -
 
