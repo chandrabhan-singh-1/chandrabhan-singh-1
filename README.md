@@ -26,7 +26,7 @@ Hey! I'm a Full-Stack Developer. Next.js and the MERN stack are my go-to tools, 
 
 
 
-# Fullstack Projects
+# My Fullstack Projects
 
 ## Project 1: Discord 2.0
 - Description: A Full-stack replica of original Discord with Real-time text, audio & video chats.
