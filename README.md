@@ -29,16 +29,16 @@ Hey! I'm a Full-Stack Developer. Next.js and the MERN stack are my go-to tools, 
 # My Fullstack Projects
 
 ## Project 1: Discord 2.0
-- Description: A Full-stack replica of original Discord with Real-time text, audio & video chats.
+- Description: A social media platform like Discord with Real-time text, audio & video chat features.
 - Tech Used: NextJS 14, LiveKit, socket.io, tanstackQuery, ClerkAuth, Shadhcn-UI, Tailwind, Prisma, UploadThing, Prisma, Typescript, NeonDB etc.
 - [Discord 2.0](https://discord-20-production-ea25.up.railway.app/)
 
-## Project 2: Live Streaming Platform/Website
+## Project 2: Live Streaming Platform/Website: Gamehub
 - Description: This is a FullStack Live Streaming Platform "Gamehub" inspired by Twitch website with Admin Dashboard, where streamer can monitor and manage everything.
 - Tech Used: NextJS 14, ClerkAuth, Shadhcn-UI, Tailwind, Prisma, LiveKit, UploadThing, Prisma, Typescript & MySQL etc.
 - [GameHub](https://twitch-clone-gamehub.vercel.app/)
 
-## Project 3: Trello Clone-TASKIFY Website
+## Project 3: Trello Clone - TASKIFY
 - Description: This is a Full-Stack Trello Clone Website named "TASKIFY", tried to replicate most of the features of Trello.
 - Tech Used: NextJS 14, ClerkAuth, Shadhcn-UI, Tailwind, Prisma, React-DND, Unsplash-API, Prisma, Typescript & PostgreSQL etc.
 - [TASKIFY](https://nextjs-14-trello-clone.vercel.app/)
