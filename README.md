@@ -7,18 +7,14 @@ Next.js | MERN Developer
 ------------------------
 
 - 🌍  Based in Udaipur, IN
-- 🖥️  Visit my 3D portfolio at  [My Portfolio](https://my-portfolio-lemon-nu.vercel.app/)
 - ✉️  Contact me at  [chandrabhansingh813@gmail.com](mailto:chandrabhansingh813@gmail.com)
-- 🧠  Currently, Learning System Design, AWS, React Native & Three.js.
-- 🤝  Ready to collaborate on any next.js/mern based project.
-- ⚡  "The only way to do great work is to love what you do." - Steve Jobs
+- 🧠  FullStack WebApps or MVPs React/Next.js.
+- 🤝  Hire me for any Fullstack or Next.js project.
+- ⚡  "The only way to do great work is to love what you do." - Steve Jobs, I do love to code.
 
-
-Hey! I'm a Full-Stack Developer. Next.js and the MERN stack are my go-to tools, but I'm always down to learn new techs. Python, C++, JavaScript, TypeScript - you name it, & I've probably worked with it. Built a bunch of cool web apps along the way, and always looking for more challenges to tackle. I'm committed to continuous improvement, so you’ll always find me at the forefront of the tech game!
-
+Hey! I'm a Full-Stack Developer. Next.js is my go-to tool, but I'm always down to learn new tech.
 
 ### Skills
-
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>&nbsp;<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>&nbsp;<a href="https://nextjs.org/docs" style="background-color:white;color:white" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>&nbsp;<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>&nbsp;<a href="https://redux.js.org/"  target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>&nbsp;<a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a>&nbsp;<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>&nbsp;<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>&nbsp;<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>&nbsp;<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>&nbsp;<a href="https://expressjs.com/" style="background-color:white;color:white" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>&nbsp;<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>&nbsp;<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&nbsp;<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
@@ -26,32 +22,9 @@ Hey! I'm a Full-Stack Developer. Next.js and the MERN stack are my go-to tools, 
 
 
 
-# My Fullstack Projects
+#  My Agency (Hire Me! for Fullstack Web-Dev/MVP Projects)
+  coming soon
 
-## Project 1: Discord 2.0
-- Description: A social media platform like Discord with Real-time text, audio & video chat features.
-- Tech Used: NextJS 14, LiveKit, socket.io, tanstackQuery, ClerkAuth, Shadhcn-UI, Tailwind, Prisma, UploadThing, Prisma, Typescript, NeonDB etc.
-- [Discord 2.0](https://discord-20-production-ea25.up.railway.app/)
-
-## Project 2: Live Streaming Platform/Website: Gamehub
-- Description: This is a FullStack Live Streaming Platform "Gamehub" inspired by Twitch website with Admin Dashboard, where streamer can monitor and manage everything.
-- Tech Used: NextJS 14, ClerkAuth, Shadhcn-UI, Tailwind, Prisma, LiveKit, UploadThing, Prisma, Typescript & MySQL etc.
-- [GameHub](https://twitch-clone-gamehub.vercel.app/)
-
-## Project 3: Trello Clone - TASKIFY
-- Description: This is a Full-Stack Trello Clone Website named "TASKIFY", tried to replicate most of the features of Trello.
-- Tech Used: NextJS 14, ClerkAuth, Shadhcn-UI, Tailwind, Prisma, React-DND, Unsplash-API, Prisma, Typescript & PostgreSQL etc.
-- [TASKIFY](https://nextjs-14-trello-clone.vercel.app/)
-
-## Project 4: AI SAAS Platform: Genius
-- Description: An AI based service platform, where users can chat with AI bot, create Images, Music, code snippets and Video also.
-- Tech Used: Next.js, OpenAI, ReplicateAI, Typescript, Prisma, Tailwind, Zustand etc.
-- [Genius](https://genius-ai-saas-pi.vercel.app/)
-
-## Project 5: Auth.js/NextAuth based Authentication system
-- Description: A Auth.js based authentication project with 2FA, Role-based Sign-in etc. to demonstrate my NextAuth/Auth.js skills.
-- Tech Used: Next.js 14, Auth.js, Typescript, Prisma, Tailwind etc.
-- [Auth.js App](https://next-auth-js-mu.vercel.app/)
 
 
 ### Socials
